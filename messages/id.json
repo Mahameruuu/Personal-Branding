@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "title": "Muhammad Mahameru Abidin — Data Scientist & AI Engineer",
+    "description": "Data Scientist dan AI Engineer dengan hampir dua tahun pengalaman membangun sistem cerdas secara menyeluruh — dari model machine learning hingga aplikasi produksi. Men-deploy ML API real-time untuk klien enterprise."
+  },
+  "nav": {
+    "brand": "Mahameru",
+    "home": "Beranda",
+    "about": "Tentang",
+    "experience": "Pengalaman",
+    "skills": "Keahlian",
+    "projects": "Proyek",
+    "research": "Riset",
+    "contact": "Kontak",
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu"
+  },
+  "theme": {
+    "toggle": "Ganti tema",
+    "light": "Terang",
+    "dark": "Gelap",
+    "system": "Sistem"
+  },
+  "hero": {
+    "status": "Terbuka untuk peluang",
+    "name": "Muhammad Mahameru Abidin",
+    "title": "Data Scientist | AI Engineer",
+    "intro": "Membangun solusi AI menyeluruh — dari riset dan pengembangan model hingga sistem produksi yang scalable.",
+    "location": "Sidoarjo, Jawa Timur · Indonesia",
+    "ctaPrimary": "Lihat karya saya",
+    "ctaSecondary": "Hubungi saya"
+  },
+  "about": {
+    "eyebrow": "Tentang",
+    "title": "Mengubah model menjadi produk",
+    "description": "Data Scientist dan AI Engineer yang membangun secara menyeluruh — dari model machine learning hingga aplikasi yang menghadirkannya.",
+    "paragraph1": "Saya seorang Data Scientist dan AI Engineer dengan fondasi yang kuat di bidang Machine Learning, Computer Vision, Time Series Forecasting, dan pengembangan Full-Stack. Saya lulusan Teknik Informatika dari Institut Teknologi Adhi Tama Surabaya dan saat ini sedang menempuh pendidikan Magister Informatika, terus memperluas keahlian saya di bidang kecerdasan buatan dan sistem cerdas.",
+    "paragraph2": "Pekerjaan saya berfokus pada perancangan dan penyampaian solusi AI menyeluruh (end-to-end) yang mengubah data kompleks menjadi wawasan yang dapat ditindaklanjuti dan nilai bisnis nyata. Sepanjang perjalanan profesional saya, saya telah berkontribusi dalam pengembangan sistem cerdas untuk lingkungan industri, termasuk aplikasi computer vision, predictive analytics, deteksi anomali, model forecasting, dan platform monitoring berbasis AI.",
+    "paragraph3": "Yang membedakan pendekatan saya adalah kemampuan menjembatani kesenjangan antara riset dan produksi. Selain mengembangkan model machine learning, saya merancang arsitektur yang scalable, membangun layanan backend, mengembangkan aplikasi web modern, dan mengintegrasikan solusi AI ke lingkungan produksi yang andal. Kombinasi keahlian AI dan rekayasa perangkat lunak ini memungkinkan saya menciptakan solusi yang tidak hanya kuat secara teknis, tetapi juga praktis, mudah dirawat, dan berdampak.",
+    "paragraph4": "Saya bersemangat memanfaatkan teknologi untuk menyelesaikan masalah yang bermakna, terus mempelajari teknologi baru, dan berbagi pengetahuan melalui mentoring dan edukasi. Tujuan saya adalah membangun sistem cerdas yang memberdayakan organisasi untuk mengambil keputusan yang lebih baik, meningkatkan efisiensi operasional, dan membuka peluang baru melalui data dan kecerdasan buatan.",
+    "focus": {
+      "ai": {
+        "title": "AI Engineering",
+        "description": "Merancang, melatih, dan men-deploy sistem ML & deep learning."
+      },
+      "data": {
+        "title": "Data Science",
+        "description": "Mengubah data menjadi wawasan, model, dan keputusan."
+      },
+      "engineering": {
+        "title": "Pengembangan Full-Stack",
+        "description": "Membangun aplikasi yang menghadirkan AI ke pengguna."
+      }
+    }
+  },
+  "experience": {
+    "eyebrow": "Pengalaman",
+    "title": "Pengalaman unggulan",
+    "description": "Peran terpilih yang merepresentasikan saya sebagai Data Scientist dan AI Engineer dengan pengalaman pengembangan full-stack.",
+    "items": {
+      "smluestari": {
+        "role": "Data Science Developer",
+        "company": "PT Sarana Maju Lestari",
+        "location": "Surabaya, Indonesia",
+        "period": "Mei 2025 — Sekarang",
+        "summary": "Bertanggung jawab penuh atas perancangan dan penyampaian sistem AI produksi untuk klien industri, mengubah data operasional yang kompleks menjadi solusi yang andal dan siap deploy. Memimpin inisiatif machine learning secara menyeluruh — dari perumusan masalah dan pemodelan hingga deployment layanan ML real-time yang mendukung pengambilan keputusan kritis bagi organisasi besar di sektor energi."
+      },
+      "flashcom": {
+        "role": "Web Developer & Pelatih Data Analyst",
+        "company": "Flashcom Indonesia",
+        "location": "Surabaya, Indonesia",
+        "period": "Okt 2024 — Sekarang",
+        "summary": "Membimbing dan meningkatkan keterampilan calon developer serta analis di bidang pengembangan web full-stack dan analisis data. Menerjemahkan praktik rekayasa dunia nyata menjadi pembelajaran terstruktur, memandu peserta dari dasar hingga membangun aplikasi yang lengkap dan terintegrasi — sekaligus mengasah kemampuan saya mengomunikasikan konsep teknis yang kompleks secara jelas."
+      },
+      "independent": {
+        "role": "Independent Full-Stack Developer",
+        "company": "Freelance",
+        "location": "Remote · Berbagai Klien",
+        "period": "Okt 2024 — Sekarang",
+        "summary": "Bermitra dengan beragam klien untuk merancang dan membangun sistem web menyeluruh — dari arsitektur data dan layanan backend hingga antarmuka modern yang responsif. Mengelola keseluruhan siklus pengembangan, menerjemahkan kebutuhan bisnis menjadi perangkat lunak yang andal dengan tetap menjaga skalabilitas, kemudahan perawatan, dan dampak nyata."
+      }
+    }
+  },
+  "skills": {
+    "eyebrow": "Keahlian",
+    "title": "Perangkat teknis",
+    "description": "Tools dan teknologi yang saya gunakan di bidang AI, data, rekayasa, dan infrastruktur.",
+    "placeholder": "Segera hadir",
+    "categories": {
+      "aiData": {
+        "title": "AI & Data Science",
+        "description": "ML, deep learning & analitik"
+      },
+      "backend": {
+        "title": "Backend",
+        "description": "API, layanan & desain sistem"
+      },
+      "frontend": {
+        "title": "Frontend",
+        "description": "Antarmuka modern dan responsif"
+      },
+      "database": {
+        "title": "Database",
+        "description": "Penyimpanan relasional & NoSQL"
+      },
+      "devops": {
+        "title": "DevOps & Cloud",
+        "description": "Cloud, container & version control"
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "Proyek",
+    "title": "Karya pilihan",
+    "description": "Showcase proyek AI, data, dan full-stack. Karya unggulan akan ditambahkan di sini segera.",
+    "viewDetails": "Lihat studi kasus",
+    "filterAll": "Semua",
+    "placeholder": {
+      "title": "Proyek segera hadir",
+      "description": "Kartu ini siap menampilkan sebuah proyek — masalahnya, solusinya, dampaknya, dan teknologi yang digunakan."
+    },
+    "categories": {
+      "computerVision": "Computer Vision",
+      "machineLearning": "Machine Learning",
+      "genAI": "Generative AI",
+      "fullStack": "Full-Stack Web"
+    },
+    "status": {
+      "live": "Live",
+      "inProgress": "Dalam Pengembangan",
+      "completed": "Selesai",
+      "concept": "Konsep",
+      "comingSoon": "Segera Hadir"
+    },
+    "detail": {
+      "back": "Kembali ke proyek",
+      "overview": "Ringkasan",
+      "businessProblem": "Masalah Bisnis",
+      "solution": "Pendekatan Solusi",
+      "keyFeatures": "Fitur Utama",
+      "techStack": "Teknologi yang Digunakan",
+      "architecture": "Arsitektur Sistem",
+      "results": "Hasil & Dampak",
+      "video": "Demonstrasi Video",
+      "future": "Pengembangan Selanjutnya",
+      "architecturePlaceholder": "Diagram arsitektur",
+      "videoPlaceholder": "Demonstrasi video",
+      "imagePlaceholder": "Gambar pratinjau"
+    },
+    "items": {
+      "face-recognition": {
+        "title": "Sistem Pengenalan Wajah (Face Recognition)",
+        "summary": "Sistem computer vision untuk pengenalan wajah secara real-time — mengidentifikasi dan memverifikasi individu dari feed kamera untuk kebutuhan absensi, akses, dan keamanan.",
+        "overview": "Face Recognition adalah sistem computer vision yang mendeteksi dan mengidentifikasi individu dari feed kamera langsung secara real-time, mencocokkan wajah dengan basis data terdaftar untuk kebutuhan seperti absensi, kontrol akses, dan pemantauan keamanan. Studi kasus lengkap segera hadir."
+      },
+      "time-series-forecasting": {
+        "title": "Time-Series Forecasting",
+        "summary": "Sistem machine learning untuk peramalan deret waktu — memprediksi nilai masa depan dari data historis untuk mendukung perencanaan dan pengambilan keputusan.",
+        "overview": "Sistem forecasting ini menerapkan machine learning pada data deret waktu untuk memprediksi tren masa depan — seperti permintaan, beban, atau pembacaan sensor — membantu organisasi merencanakan ke depan dan mengambil keputusan berbasis data. Studi kasus lengkap segera hadir."
+      },
+      "ilo-kbli-recommendation": {
+        "title": "Rekomendasi Kode ILO/KBLI",
+        "summary": "Sistem otomatis yang melakukan crawling dan scraping data dari web maupun media sosial untuk merekomendasikan kode klasifikasi usaha ILO/KBLI yang paling relevan bagi perusahaan.",
+        "overview": "Sistem ini secara otomatis melakukan crawling dan scraping data dari situs web dan media sosial untuk memahami aktivitas sebuah perusahaan, lalu merekomendasikan kode klasifikasi usaha ILO/KBLI yang paling relevan. Sistem ini memadukan ekstraksi data web dengan logika pemetaan dan rekomendasi untuk menggantikan klasifikasi manual yang lambat. Studi kasus lengkap segera hadir."
+      },
+      "anomaly-detection": {
+        "title": "Sistem Deteksi Anomali",
+        "summary": "Sistem machine learning yang memantau data sensor dan operasional untuk mendeteksi anomali secara real-time — menandai perilaku tidak wajar sebelum menjadi kegagalan.",
+        "overview": "Sistem deteksi anomali ini menggunakan machine learning untuk memantau data sensor dan operasional, secara otomatis menandai pola tidak wajar yang dapat mengindikasikan gangguan atau risiko — ditujukan untuk pemantauan industri di mana deteksi dini mencegah downtime. Studi kasus lengkap segera hadir."
+      },
+      "xorca-ai-assistant": {
+        "title": "XORCA Enterprise AI Assistant",
+        "summary": "Platform AI assistant enterprise bertenaga Claude — chatbot berbasis dokumen yang menjawab pertanyaan seputar produk, kapabilitas, dan industri sebuah perusahaan, disajikan melalui Flask API dengan caching Redis dan di-deploy di Google Cloud.",
+        "overview": "XORCA adalah platform AI assistant enterprise yang menghadirkan chatbot bertenaga Claude ke pengalaman web dan mobile sebuah perusahaan. Alih-alih jawaban generik, asisten ini didasarkan pada dokumentasi milik organisasi itu sendiri, sehingga dapat menjelaskan produk, kapabilitas platform, dan industri target secara akurat — serta dengan jelas menyatakan ketika sesuatu berada di luar basis pengetahuannya. Dari sisi rekayasa, sistem dibangun di sekitar Claude API dengan backend REST berbasis Python dan Flask yang didokumentasikan dengan Swagger, Redis untuk caching respons yang cepat, dan Google Cloud untuk hosting yang scalable (dengan Colab digunakan untuk eksperimen). Hasilnya adalah blueprint praktis untuk menambahkan AI percakapan yang tepercaya dan sadar-merek ke produk enterprise — jenis solusi LLM yang saya rancang dan integrasikan secara menyeluruh, dari desain prompt dan retrieval hingga layanan berbasis API yang ter-deploy."
+      },
+      "smart-sootblow-rule-analysis": {
+        "title": "Smart Sootblow Rule Analysis",
+        "summary": "Sistem machine learning untuk optimasi sootblowing pembangkit listrik yang menganalisis aturan operasi yang ada dan merekomendasikan aturan baru berbasis data — membandingkan model Linear Regression, Polynomial, dan Multivariate terhadap data sensor nyata.",
+        "overview": "Smart Sootblow Rule Analysis adalah sistem machine learning yang membantu pembangkit listrik mengoptimalkan operasi sootblowing — pembersihan berkala permukaan boiler yang berdampak langsung pada efisiensi dan konsumsi bahan bakar. Menggunakan data sensor nyata seperti tekanan gas buang dan beban generator, sistem mengevaluasi seberapa cocok aturan operasi yang ada dengan kondisi sebenarnya dan secara otomatis menyarankan aturan baru yang lebih baik berbasis data. Lapisan ML membangun dan membandingkan tiga model klasik — Linear Regression, Polynomial, dan Multivariate — serta memberi skor pada masing-masing (R², eligibility) sehingga engineer dapat memilih aturan yang paling andal. Model diprototipekan di Jupyter Notebook, lalu disajikan melalui Flask REST API yang didokumentasikan dengan Swagger, didukung MySQL, dan dikemas dengan Docker untuk deployment ke sistem pembangkit. Sistem ini mengubah telemetri industri mentah menjadi keputusan optimasi yang dapat ditindaklanjuti — jenis solusi ML menyeluruh dan siap produksi yang saya bangun untuk klien energi dan industri."
+      },
+      "lppm-system": {
+        "title": "Sistem LPPM (Penelitian & Pengabdian)",
+        "summary": "Sistem web full-stack bagi dosen untuk mengajukan dan melaporkan proposal penelitian dan pengabdian masyarakat — dilengkapi data master, kategorisasi (SDGs, SKIM), dan dashboard berbasis peran untuk lembaga penelitian (LPPM).",
+        "overview": "Sistem ini mendigitalkan alur kerja lembaga penelitian dan pengabdian masyarakat kampus (LPPM). Dosen dapat mengajukan proposal penelitian dan pengabdian, memantau statusnya, serta mengirim laporan, sementara administrator mengelola data master pendukung — tipe proposal, sumber dana, kategori SDG dan SKIM, laboratorium, luaran, dan jenis publikasi — serta memantau kegiatan melalui dashboard berbasis peran untuk dosen, ketua unit, dan admin. Dibangun dengan Laravel, Blade, Bootstrap, dan PostgreSQL, sistem ini mencakup autentikasi dan peran pengguna, pemodelan data relasional yang ekstensif, serta operasi CRUD lengkap di banyak modul yang saling terhubung. Sistem ini menggantikan administrasi manual yang terfragmentasi dengan satu platform terstruktur — menunjukkan kemampuan saya merancang dan menghadirkan sistem web enterprise multi-peran yang kompleks secara menyeluruh."
+      },
+      "coffee-shop-pos": {
+        "title": "Sistem Kasir (POS) Coffee Shop",
+        "summary": "Aplikasi kasir point-of-sale full-stack untuk coffee shop — menangani transaksi, menu, member dan poin, voucher, pajak, dan cetak struk, lengkap dengan laporan penjualan untuk pemilik.",
+        "overview": "Sistem POS coffee shop ini adalah aplikasi web full-stack yang menjalankan sisi kasir dan back-office sebuah kafe. Kasir dapat memproses pesanan dari menu, menerapkan diskon member, voucher, dan pajak (PPN), menghitung kembalian serta poin loyalitas, dan mencetak struk — semuanya dari layar point-of-sale yang cepat. Di baliknya, area admin mengelola pengguna dan menghasilkan laporan penjualan untuk pemilik. Dibangun dengan Laravel, Blade, dan MySQL, sistem ini mencakup autentikasi dan peran pengguna, pemodelan data relasional (menu, transaksi, member), serta alur transaksi lengkap dari pemesanan hingga struk. Ini adalah sistem bisnis dunia nyata yang praktis — jenis tool POS dan manajemen custom yang dapat saya rancang dan kirimkan secara menyeluruh untuk toko dan UKM."
+      },
+      "library-management": {
+        "title": "Sistem Manajemen Perpustakaan",
+        "summary": "Sistem manajemen perpustakaan full-stack untuk mengelola anggota, koleksi buku, dan transaksi peminjaman — dilengkapi dashboard admin untuk operasional perpustakaan sehari-hari.",
+        "overview": "Sistem manajemen perpustakaan ini adalah aplikasi web full-stack yang mendigitalkan operasional perpustakaan sehari-hari — mengelola anggota, koleksi buku, serta seluruh alur peminjaman dan pengembalian. Melalui dashboard admin yang rapi, petugas dapat mendaftarkan anggota, mengelola katalog buku, mencatat peminjaman dan pengembalian, serta mencari data dengan cepat. Sistem ini dibangun secara menyeluruh dengan PHP dan MySQL, mencakup autentikasi, pemodelan data relasional (anggota, buku, dan transaksi), serta operasi CRUD lengkap di setiap modul. Hasilnya adalah sistem mandiri yang praktis, menggantikan pencatatan manual dengan alur kerja digital yang lebih cepat dan andal — jenis tool internal custom yang dapat saya rancang dan bangun untuk organisasi yang ingin merampingkan operasionalnya."
+      },
+      "kominfo-info-portal": {
+        "title": "Portal Informasi Kegiatan Kominfo",
+        "summary": "Portal informasi full-stack untuk mempublikasikan dan mengelola berita kegiatan Kominfo (BPSDMP) — dengan halaman artikel publik, pencarian, komentar, dan area admin yang aman — dibuat untuk sertifikasi BNSP Junior Web Developer.",
+        "overview": "Portal informasi ini adalah aplikasi web full-stack untuk mempublikasikan dan mengelola berita seputar program pelatihan dan kegiatan Kominfo (BPSDMP Surabaya). Di sisi publik, pengunjung dapat menjelajahi pembaruan kegiatan terbaru, membaca artikel lengkap beserta arsip dan postingan populer, mencari konten, serta meninggalkan komentar. Area admin yang aman menangani autentikasi dan manajemen konten secara penuh — membuat, mengedit, dan mempublikasikan informasi. Proyek ini dibangun secara menyeluruh, mencakup autentikasi pengguna, manajemen data CRUD, dan antarmuka yang bersih serta mudah dibaca, dan dikembangkan sebagai bagian dari sertifikasi kompetensi BNSP Junior Web Developer. Proyek ini menunjukkan kemampuan saya menghadirkan aplikasi web lengkap dan sesuai standar — mulai dari perancangan database hingga produk yang benar-benar digunakan pengguna."
+      },
+      "ecommerce-website": {
+        "title": "E-Commerce Website",
+        "summary": "Aplikasi web e-commerce full-stack yang mencakup seluruh pengalaman belanja online — penjelajahan produk, pencarian, keranjang belanja, akun pengguna, dan checkout.",
+        "overview": "Platform e-commerce ini adalah aplikasi web full-stack lengkap yang mencakup seluruh perjalanan belanja online — mulai dari menjelajah dan mencari produk hingga mengelola keranjang, akun pengguna, dan checkout. Dibangun secara menyeluruh: skema database, logika bisnis sisi server, serta tampilan toko yang bersih dan responsif. Dibuat dengan Laravel dan frontend modern, proyek ini menunjukkan kemampuan saya menghadirkan produk web berkualitas produksi — bukan sekadar prototipe — termasuk autentikasi pengguna, pemodelan data, dan arsitektur yang mudah dirawat serta diperluas dengan fitur baru seperti pembayaran online, promosi, atau dashboard admin. Bagi bisnis yang membutuhkan toko online andal dan custom alih-alih template kaku, inilah jenis solusi web menyeluruh yang dapat saya rancang, bangun, dan kirimkan."
+      },
+      "apd-detection": {
+        "title": "PPE Detection System",
+        "summary": "Sistem computer vision berbasis AI yang mendeteksi alat pelindung diri (APD) — seperti helm dan rompi keselamatan — pada pekerja di lingkungan industri secara real-time.",
+        "overview": "PPE Detection adalah solusi computer vision menyeluruh yang mengubah kamera lokasi dan pabrik yang sudah ada menjadi pemantau kepatuhan keselamatan otomatis — tanpa perangkat keras baru. Sistem ini mendeteksi secara real-time apakah setiap pekerja mengenakan alat pelindung diri yang diwajibkan, seperti helm dan rompi keselamatan, serta menandai siapa pun yang tidak patuh — misalnya tidak memakai helm — begitu hal itu terjadi. Bagi operasi industri, lokasi konstruksi, gudang, dan fasilitas energi yang sangat mengutamakan keselamatan, ini berarti penegakan kebijakan APD yang berkelanjutan di seluruh area, lebih sedikit pelanggaran yang lolos, serta berkurangnya risiko operasional dan tanggung jawab hukum — sekaligus membebaskan supervisor dari pengecekan manual terus-menerus. Dibangun di atas teknologi yang teruji — YOLO, Python, OpenCV, dan Flask — solusi ini dirancang untuk terhubung dengan infrastruktur kamera yang ada dan disesuaikan dengan aturan APD serta tata letak setiap lokasi. Jika organisasi Anda perlu memperkuat keselamatan kerja dengan pemantauan berbasis AI, inilah solusi yang dapat saya rancang, bangun, dan kirimkan secara menyeluruh."
+      },
+      "face-mask-detection": {
+        "title": "Face Mask Detection System",
+        "summary": "Sistem computer vision berbasis AI yang mendeteksi kepatuhan penggunaan masker di lingkungan publik maupun kerja yang ramai secara real-time.",
+        "overview": "Face Mask Detection adalah solusi computer vision menyeluruh yang mengubah feed CCTV dan kamera yang sudah ada menjadi lapisan pemantauan kesehatan dan keselamatan cerdas selama 24 jam — tanpa perangkat keras tambahan. Sistem ini mengidentifikasi secara real-time apakah seseorang mengenakan masker, bahkan dalam kerumunan yang padat dan bergerak cepat, serta menyoroti ketidakpatuhan begitu terjadi. Bagi organisasi yang bertanggung jawab atas ruang publik, pabrik, rumah sakit, simpul transportasi, atau gedung perkantoran, hal ini memungkinkan penegakan kebijakan yang konsisten tanpa menambah tenaga kerja, membantu menekan risiko operasional dan reputasi, serta menyediakan fondasi yang scalable yang dapat berkembang menjadi platform safety-intelligence yang lebih luas. Dibangun di atas teknologi standar industri — YOLO, Python, OpenCV, dan Flask — solusi ini dirancang untuk berintegrasi dengan rapi ke infrastruktur yang ada dan disesuaikan dengan lingkungan serta kebutuhan kepatuhan setiap klien. Jika organisasi Anda ingin memodernisasi pemantauan keselamatan dengan AI, inilah jenis solusi yang dapat saya rancang, bangun, dan kirimkan secara menyeluruh.",
+        "businessProblem": "Memantau kepatuhan penggunaan masker secara manual di lingkungan padat — jembatan penyeberangan, stasiun, dan pintu masuk gedung — tidak praktis dan tidak konsisten. Petugas tidak dapat memantau setiap individu dalam kerumunan secara andal, sehingga sulit menegakkan kebijakan kesehatan dan menindak ketidakpatuhan.",
+        "solution": "Sistem menerapkan deteksi objek real-time pada aliran video, menemukan setiap wajah dan mengklasifikasikannya sebagai bermasker atau tidak beserta tingkat kepercayaannya. Sistem mampu menangani adegan padat dengan banyak orang, mengubah feed kamera biasa menjadi lapisan pemantauan kepatuhan otomatis yang dapat diskalakan jauh melampaui pengamatan manual.",
+        "features": {
+          "maskDetection": {
+            "title": "Deteksi Masker",
+            "description": "Mengidentifikasi apakah setiap orang mengenakan masker."
+          },
+          "noMaskDetection": {
+            "title": "Deteksi Tanpa Masker",
+            "description": "Menandai individu tanpa masker untuk diperhatikan."
+          },
+          "crowd": {
+            "title": "Deteksi Skala Kerumunan",
+            "description": "Mendeteksi banyak wajah sekaligus dalam adegan padat."
+          },
+          "realtime": {
+            "title": "Analisis Real-Time",
+            "description": "Memproses video langsung frame demi frame saat orang bergerak."
+          },
+          "confidence": {
+            "title": "Skor Kepercayaan",
+            "description": "Melaporkan tingkat kepercayaan untuk setiap deteksi."
+          },
+          "publicSpace": {
+            "title": "Pemantauan Ruang Publik",
+            "description": "Bekerja di jembatan penyeberangan, pintu masuk, dan area ramai lainnya."
+          }
+        },
+        "architecture": {
+          "description": "Sistem disusun sebagai pipeline deteksi real-time — dari input video, inferensi model, pasca-pemrosesan, hingga lapisan layanan yang menyajikan hasil.",
+          "steps": [
+            "Input video — frame diambil dari kamera langsung atau rekaman.",
+            "Deteksi — model berbasis YOLO mendeteksi wajah dan mengklasifikasikan status masker per frame.",
+            "Pasca-pemrosesan — deteksi difilter dan diberi anotasi tingkat kepercayaan menggunakan OpenCV.",
+            "Lapisan layanan — hasil disajikan melalui layanan Flask untuk pemantauan atau integrasi."
+          ]
+        },
+        "results": [
+          "Pemantauan kepatuhan masker yang otomatis dan berkelanjutan.",
+          "Deteksi yang andal di lingkungan padat dengan banyak orang.",
+          "Mengurangi ketergantungan pada pengamatan manual di area ramai.",
+          "Fondasi fleksibel yang dapat diperluas ke kasus kepatuhan keselamatan lainnya."
+        ],
+        "future": {
+          "alerts": {
+            "title": "Sistem Peringatan & Notifikasi",
+            "description": "Memberi tahu petugas secara otomatis ketika ketidakpatuhan terdeteksi."
+          },
+          "analytics": {
+            "title": "Analitik Kepatuhan",
+            "description": "Melacak tren kepatuhan masker antar-lokasi dan dari waktu ke waktu."
+          },
+          "zones": {
+            "title": "Pemantauan Berbasis Zona",
+            "description": "Menerapkan aturan masker pada area atau titik masuk tertentu."
+          },
+          "mobile": {
+            "title": "Pemantauan Mobile",
+            "description": "Meninjau deteksi dan peringatan dari perangkat mobile."
+          }
+        }
+      }
+    }
+  },
+  "research": {
+    "eyebrow": "Riset",
+    "title": "Riset & publikasi",
+    "description": "Wadah untuk publikasi, paper, skripsi/tesis, dan proyek riset. Konten akan ditambahkan segera.",
+    "comingSoon": "Segera hadir",
+    "types": {
+      "publications": {
+        "title": "Publikasi",
+        "description": "Karya yang telah ditinjau sejawat dan dipublikasikan akan muncul di sini."
+      },
+      "papers": {
+        "title": "Paper & Preprint",
+        "description": "Paper teknis dan preprint akan dicantumkan di sini."
+      },
+      "thesis": {
+        "title": "Skripsi",
+        "description": "Riset tentang chatbot AI kustom untuk layanan informasi kampus menggunakan NLP dengan model LSTM."
+      },
+      "projects": {
+        "title": "Proyek Riset",
+        "description": "Inisiatif riset terapan dan eksperimental."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Kontak",
+    "title": "Mari bekerja sama",
+    "description": "Terbuka untuk pekerjaan, kolaborasi, dan proyek freelance. Cara terbaik menghubungi saya ada di bawah ini.",
+    "channels": {
+      "email": "Email",
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp"
+    },
+    "cta": "Kirim email ke saya"
+  },
+  "footer": {
+    "tagline": "Membangun solusi cerdas secara menyeluruh — dari model hingga produk.",
+    "rights": "Hak cipta dilindungi."
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemukan",
+    "description": "Halaman yang Anda cari tidak ada atau telah dipindahkan.",
+    "cta": "Kembali ke beranda"
+  }
+}

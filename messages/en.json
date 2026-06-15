@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "title": "Muhammad Mahameru Abidin — Data Scientist & AI Engineer",
+    "description": "Data Scientist and AI Engineer with nearly two years of experience building end-to-end intelligent systems — from machine learning models to production applications. Deploying real-time ML APIs for enterprise clients."
+  },
+  "nav": {
+    "brand": "Mahameru",
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "research": "Research",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "hero": {
+    "status": "Open to opportunities",
+    "name": "Muhammad Mahameru Abidin",
+    "title": "Data Scientist | AI Engineer",
+    "intro": "Building end-to-end AI solutions from research and model development to scalable production systems.",
+    "location": "Sidoarjo, East Java · Indonesia",
+    "ctaPrimary": "View my work",
+    "ctaSecondary": "Get in touch"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Turning models into products",
+    "description": "A Data Scientist and AI Engineer who builds end-to-end — from machine learning models to the applications that deliver them.",
+    "paragraph1": "I am a Data Scientist and AI Engineer with a strong foundation in Machine Learning, Computer Vision, Time Series Forecasting, and Full-Stack Development. I graduated in Informatics Engineering from Institut Teknologi Adhi Tama Surabaya and am currently pursuing a Master's degree in Informatics, continuously expanding my expertise in artificial intelligence and intelligent systems.",
+    "paragraph2": "My work focuses on designing and delivering end-to-end AI solutions that transform complex data into actionable insights and real-world business value. Throughout my professional journey, I have contributed to the development of intelligent systems for industrial environments, including computer vision applications, predictive analytics, anomaly detection, forecasting models, and AI-powered monitoring platforms.",
+    "paragraph3": "What distinguishes my approach is the ability to bridge the gap between research and production. Beyond developing machine learning models, I design scalable architectures, build backend services, develop modern web applications, and integrate AI solutions into reliable production environments. This combination of AI expertise and software engineering enables me to create solutions that are not only technically sound but also practical, maintainable, and impactful.",
+    "paragraph4": "I am passionate about leveraging technology to solve meaningful problems, continuously learning emerging technologies, and sharing knowledge through mentoring and education. My goal is to build intelligent systems that empower organizations to make better decisions, improve operational efficiency, and unlock new opportunities through data and artificial intelligence.",
+    "focus": {
+      "ai": {
+        "title": "AI Engineering",
+        "description": "Designing, training and deploying ML & deep learning systems."
+      },
+      "data": {
+        "title": "Data Science",
+        "description": "Turning data into insight, models and decisions."
+      },
+      "engineering": {
+        "title": "Full-Stack Delivery",
+        "description": "Building the apps that bring AI to real users."
+      }
+    }
+  },
+  "experience": {
+    "eyebrow": "Experience",
+    "title": "Featured experience",
+    "description": "Selected roles that define my work as a Data Scientist and AI Engineer with full-stack delivery experience.",
+    "items": {
+      "smluestari": {
+        "role": "Data Science Developer",
+        "company": "PT Sarana Maju Lestari",
+        "location": "Surabaya, Indonesia",
+        "period": "May 2025 — Present",
+        "summary": "Own the design and delivery of production AI systems for industrial clients, turning complex operational data into reliable, deployable solutions. Lead end-to-end machine learning initiatives — from problem framing and modeling to deploying real-time ML services that support critical decision-making for major energy-sector organizations."
+      },
+      "flashcom": {
+        "role": "Web Developer & Data Analyst Trainer",
+        "company": "Flashcom Indonesia",
+        "location": "Surabaya, Indonesia",
+        "period": "Oct 2024 — Present",
+        "summary": "Mentor and upskill aspiring developers and analysts in full-stack web development and data analysis. Translate real-world engineering practices into structured learning, guiding learners from fundamentals to building complete, integrated applications — while sharpening my own ability to communicate complex technical concepts clearly."
+      },
+      "independent": {
+        "role": "Independent Full-Stack Developer",
+        "company": "Freelance",
+        "location": "Remote · Various Clients",
+        "period": "Jan 2024 — Present",
+        "summary": "Partner with diverse clients to design and build end-to-end web systems — from data architecture and backend services to modern, responsive interfaces. Take ownership of the full delivery lifecycle, translating business needs into reliable software while balancing scalability, maintainability, and real-world impact."
+      }
+    }
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "Technical toolkit",
+    "description": "The tools and technologies I work with across AI, data, engineering and infrastructure.",
+    "placeholder": "Coming soon",
+    "categories": {
+      "aiData": {
+        "title": "AI & Data Science",
+        "description": "ML, deep learning & analytics"
+      },
+      "backend": {
+        "title": "Backend",
+        "description": "APIs, services & system design"
+      },
+      "frontend": {
+        "title": "Frontend",
+        "description": "Modern, responsive interfaces"
+      },
+      "database": {
+        "title": "Database",
+        "description": "Relational & NoSQL stores"
+      },
+      "devops": {
+        "title": "DevOps & Cloud",
+        "description": "Cloud, containers & version control"
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Selected work",
+    "description": "A showcase of AI, data and full-stack projects. Featured work will be added here soon.",
+    "viewDetails": "View case study",
+    "filterAll": "All",
+    "placeholder": {
+      "title": "Project coming soon",
+      "description": "This card is ready to feature a project — its problem, the solution, the impact and the technologies used."
+    },
+    "categories": {
+      "computerVision": "Computer Vision",
+      "machineLearning": "Machine Learning",
+      "genAI": "Generative AI",
+      "fullStack": "Full-Stack Web"
+    },
+    "status": {
+      "live": "Live",
+      "inProgress": "In Development",
+      "completed": "Completed",
+      "concept": "Concept",
+      "comingSoon": "Coming Soon"
+    },
+    "detail": {
+      "back": "Back to projects",
+      "overview": "Overview",
+      "businessProblem": "Business Problem",
+      "solution": "Solution Approach",
+      "keyFeatures": "Key Features",
+      "techStack": "Technology Stack",
+      "architecture": "System Architecture",
+      "results": "Results & Outcomes",
+      "video": "Video Demonstration",
+      "future": "Future Improvements",
+      "architecturePlaceholder": "Architecture diagram",
+      "videoPlaceholder": "Video demonstration",
+      "imagePlaceholder": "Preview image"
+    },
+    "items": {
+      "face-recognition": {
+        "title": "Face Recognition System",
+        "summary": "A computer vision system for real-time face recognition — identifying and verifying individuals from camera feeds for attendance, access and security use cases.",
+        "overview": "Face Recognition is a computer vision system that detects and identifies individuals from live camera feeds in real time, matching faces against a registered database for use cases such as attendance, access control and security monitoring. A detailed case study is coming soon."
+      },
+      "time-series-forecasting": {
+        "title": "Time-Series Forecasting",
+        "summary": "A machine-learning system for time-series forecasting — predicting future values from historical data to support planning and decision-making.",
+        "overview": "This forecasting system applies machine learning to time-series data to predict future trends — such as demand, load or sensor readings — helping organizations plan ahead and make data-driven decisions. A detailed case study is coming soon."
+      },
+      "ilo-kbli-recommendation": {
+        "title": "ILO/KBLI Code Recommendation",
+        "summary": "An automated system that crawls and scrapes web and social-media data to recommend the most relevant ILO/KBLI business-classification codes for companies.",
+        "overview": "This system automatically crawls and scrapes data from websites and social media to understand a company's activities, then recommends the most relevant ILO/KBLI business-classification codes. It combines web data extraction with mapping and recommendation logic to replace slow, manual classification. A detailed case study is coming soon."
+      },
+      "anomaly-detection": {
+        "title": "Anomaly Detection System",
+        "summary": "A machine-learning system that monitors sensor and operational data to detect anomalies in real time — flagging unusual behavior before it becomes a failure.",
+        "overview": "This anomaly detection system uses machine learning to monitor sensor and operational data, automatically flagging unusual patterns that may indicate faults or risks — aimed at industrial monitoring where early detection prevents downtime. A detailed case study is coming soon."
+      },
+      "xorca-ai-assistant": {
+        "title": "XORCA Enterprise AI Assistant",
+        "summary": "An enterprise AI assistant platform powered by Claude — a document-grounded chatbot that answers questions about a company's products, capabilities and industries, served through a Flask API with Redis caching and deployed on Google Cloud.",
+        "overview": "XORCA is an enterprise AI assistant platform that brings a Claude-powered chatbot into a company's web and mobile experience. Instead of generic answers, the assistant is grounded in the organization's own documentation, so it can explain products, platform capabilities and target industries accurately — and clearly say when something falls outside its knowledge base. On the engineering side, it is built around the Claude API with a Python and Flask REST backend documented in Swagger, Redis for fast response caching, and Google Cloud for scalable hosting (with Colab used for experimentation). The result is a practical blueprint for adding trustworthy, brand-aware conversational AI to enterprise products — the kind of LLM solution I design and integrate end to end, from prompt and retrieval design to a deployed, API-driven service."
+      },
+      "smart-sootblow-rule-analysis": {
+        "title": "Smart Sootblow Rule Analysis",
+        "summary": "A machine-learning system for power-plant sootblowing optimization that analyzes existing operating rules and recommends improved, data-driven ones — comparing Linear Regression, Polynomial and Multivariate models against real sensor data.",
+        "overview": "Smart Sootblow Rule Analysis is a machine-learning system that helps power plants optimize their sootblowing operations — the periodic cleaning of boiler surfaces that directly affects efficiency and fuel consumption. Using real plant sensor data such as flue-gas pressures and generator load, it evaluates how well existing operating rules fit actual conditions and automatically suggests better, data-driven rules. The ML layer builds and compares three classic models — Linear Regression, Polynomial and Multivariate regression — and scores each one (R², eligibility) so engineers can select the most reliable rule. Models were prototyped in Jupyter Notebook, then served through a Flask REST API documented with Swagger, backed by MySQL and containerized with Docker for deployment into the plant's systems. It turns raw industrial telemetry into actionable optimization decisions — the kind of end-to-end, production-grade ML solution I build for energy and industrial clients."
+      },
+      "lppm-system": {
+        "title": "LPPM Research & Community Service System",
+        "summary": "A full-stack web system for lecturers to submit and report research and community-service proposals — with master data, categorization (SDGs, SKIM) and role-based dashboards for an institutional research office (LPPM).",
+        "overview": "This system digitizes the workflow of a university research and community-service office (LPPM). Lecturers can submit research and community-service proposals, track their status and file reports, while administrators manage the supporting master data — proposal types, funding sources, SDG and SKIM categories, laboratories, outputs and publication types — and oversee activities through role-based dashboards for lecturers, unit heads and admins. Built with Laravel, Blade, Bootstrap and PostgreSQL, it covers authentication and roles, extensive relational data modelling and full CRUD across many interconnected modules. It replaces fragmented, manual administration with a single structured platform — demonstrating my ability to design and deliver a complex, multi-role enterprise web system end to end."
+      },
+      "coffee-shop-pos": {
+        "title": "Coffee Shop POS (Cashier) System",
+        "summary": "A full-stack point-of-sale cashier application for a coffee shop — handling transactions, menu, members and points, vouchers, tax and receipt printing, plus sales reporting for owners.",
+        "overview": "This coffee shop POS is a full-stack web application that runs the cashier and back-office side of a café. Cashiers can process orders from the menu, apply member discounts, vouchers and tax (PPN), calculate change and loyalty points, and print receipts — all from a fast point-of-sale screen. Behind it, an admin area manages users and produces sales reports for owners. Built with Laravel, Blade and MySQL, it covers authentication and roles, relational data modelling (menu, transactions and members) and the complete transaction workflow from order to receipt. It is a practical, real-world business system — the kind of custom POS and management tool I can design and deliver end to end for shops and small businesses."
+      },
+      "library-management": {
+        "title": "Library Management System",
+        "summary": "A full-stack library management system for handling members, book collections and borrowing transactions — with an admin dashboard for day-to-day library operations.",
+        "overview": "This library management system is a full-stack web application that digitizes day-to-day library operations — managing members, book collections and the complete borrowing-and-returning workflow. From a clean admin dashboard, staff can register members, maintain the book catalog, record loans and returns, and quickly search records. It was built end to end with PHP and MySQL, covering authentication, relational data modelling (members, books and transactions) and full CRUD operations across every module. The result is a practical, self-contained system that replaces manual record-keeping with a faster, more reliable digital workflow — the kind of custom internal tool I can design and build for organizations that need to streamline their operations."
+      },
+      "kominfo-info-portal": {
+        "title": "Kominfo Activity Information Portal",
+        "summary": "A full-stack information portal for publishing and managing Kominfo (BPSDMP) activity news — with public article pages, search, comments and a secured admin area — built for the BNSP Junior Web Developer certification.",
+        "overview": "This information portal is a full-stack web application for publishing and managing news about Kominfo (BPSDMP Surabaya) training programs and activities. On the public side, visitors can browse the latest activity updates, read full articles alongside archives and popular posts, search content and leave comments. A secured admin area handles authentication and complete content management — creating, editing and publishing information. The project was built end to end, covering user authentication, CRUD data management and a clean, readable interface, and was developed as part of the BNSP Junior Web Developer competency certification. It demonstrates my ability to deliver a complete, standards-based web application from database design to a working, user-facing product."
+      },
+      "ecommerce-website": {
+        "title": "E-Commerce Website",
+        "summary": "A full-stack e-commerce web application covering the complete online-shopping experience — product browsing, search, shopping cart, user accounts and checkout.",
+        "overview": "This e-commerce platform is a complete full-stack web application that covers the entire online-shopping journey — from browsing and searching products to managing a cart, user accounts and checkout. It was designed and built end to end: the database schema, the server-side business logic, and a clean, responsive storefront. Built with Laravel and a modern frontend, it demonstrates my ability to deliver production-style web products — not just prototypes — including user authentication, data modelling and a maintainable architecture that is straightforward to extend with new capabilities such as online payments, promotions or an admin dashboard. For businesses that need a reliable, custom online store rather than a rigid template, this reflects the kind of end-to-end web solution I can design, build and ship."
+      },
+      "apd-detection": {
+        "title": "PPE Detection System",
+        "summary": "An AI-powered computer vision system that detects personal protective equipment — such as hardhats and safety vests — on workers across industrial environments in real time.",
+        "overview": "PPE Detection is an end-to-end computer vision solution that turns existing site and factory cameras into an automated safety-compliance monitor — without new hardware. It detects in real time whether each worker is wearing the required protective equipment, such as hardhats and safety vests, and flags anyone who is non-compliant — for example, a missing hardhat — the moment it happens. For industrial operations, construction sites, warehouses and energy facilities where safety is mission-critical, this means continuous enforcement of PPE policy across the entire floor, fewer undetected violations, and reduced operational and liability risk — all while freeing supervisors from constant manual checks. Built on a proven stack — YOLO, Python, OpenCV and Flask — it is designed to plug into existing camera infrastructure and to be tailored to each site's equipment rules and layout. If your organization needs to strengthen workplace safety with AI-driven monitoring, this is a solution I can design, build and deliver end to end."
+      },
+      "face-mask-detection": {
+        "title": "Face Mask Detection System",
+        "summary": "An AI-powered computer vision system that detects face-mask compliance across crowded public and workplace environments in real time.",
+        "overview": "Face Mask Detection is an end-to-end computer vision solution that transforms existing CCTV and camera feeds into an intelligent, around-the-clock health-and-safety monitoring layer — without additional hardware. It identifies in real time whether people are wearing face masks, even in dense and fast-moving crowds, and highlights non-compliance the moment it occurs. For organizations responsible for public spaces, factories, hospitals, transport hubs or office buildings, this enables consistent policy enforcement without adding manpower, helps reduce operational and reputational risk, and provides a scalable foundation that can grow into a broader safety-intelligence platform. Built on an industry-standard stack — YOLO, Python, OpenCV and Flask — it is designed to integrate cleanly with existing infrastructure and to be tailored to each client's environment and compliance requirements. If your organization is looking to modernize safety monitoring with AI, this is the kind of solution I can design, build and deliver end to end.",
+        "businessProblem": "Manually monitoring face-mask compliance in high-traffic environments — walkways, stations and building entrances — is impractical and inconsistent. Staff cannot reliably track every individual in a crowd, making it difficult to enforce health policies and respond to non-compliance.",
+        "solution": "The system applies real-time object detection to video streams, locating each face and classifying it as masked or unmasked along with a confidence level. It handles dense, multi-person scenes, turning ordinary camera feeds into an automated compliance-monitoring layer that scales well beyond manual observation.",
+        "features": {
+          "maskDetection": {
+            "title": "Mask Detection",
+            "description": "Identifies whether each person is wearing a face mask."
+          },
+          "noMaskDetection": {
+            "title": "No-Mask Detection",
+            "description": "Flags individuals without a face mask for attention."
+          },
+          "crowd": {
+            "title": "Crowd-Scale Detection",
+            "description": "Detects many faces simultaneously in dense scenes."
+          },
+          "realtime": {
+            "title": "Real-Time Analysis",
+            "description": "Processes live video frame by frame as people move."
+          },
+          "confidence": {
+            "title": "Confidence Scoring",
+            "description": "Reports a confidence level for each detection."
+          },
+          "publicSpace": {
+            "title": "Public-Space Monitoring",
+            "description": "Works on walkways, entrances and other high-traffic areas."
+          }
+        },
+        "architecture": {
+          "description": "The system is structured as a real-time detection pipeline — from video input through model inference and post-processing to a service layer that exposes results.",
+          "steps": [
+            "Video input — frames are captured from live cameras or recorded footage.",
+            "Detection — a YOLO-based model detects faces and classifies mask status per frame.",
+            "Post-processing — detections are filtered and annotated with confidence levels using OpenCV.",
+            "Service layer — results are exposed through a Flask service for monitoring or integration."
+          ]
+        },
+        "results": [
+          "Automated, continuous face-mask compliance monitoring.",
+          "Reliable detection in crowded, multi-person environments.",
+          "Reduced reliance on manual observation in high-traffic areas.",
+          "A flexible foundation that can extend to other safety-compliance use cases."
+        ],
+        "future": {
+          "alerts": {
+            "title": "Alert & Notification System",
+            "description": "Notify staff automatically when non-compliance is detected."
+          },
+          "analytics": {
+            "title": "Compliance Analytics",
+            "description": "Track mask-compliance trends across locations and over time."
+          },
+          "zones": {
+            "title": "Zone-Based Monitoring",
+            "description": "Apply mask rules to specific areas or entry points."
+          },
+          "mobile": {
+            "title": "Mobile Monitoring",
+            "description": "Review detections and alerts from mobile devices."
+          }
+        }
+      }
+    }
+  },
+  "research": {
+    "eyebrow": "Research",
+    "title": "Research & publications",
+    "description": "A home for publications, papers, thesis work and research projects. Content will be added soon.",
+    "comingSoon": "Coming soon",
+    "types": {
+      "publications": {
+        "title": "Publications",
+        "description": "Peer-reviewed and published work will appear here."
+      },
+      "papers": {
+        "title": "Papers & Preprints",
+        "description": "Technical papers and preprints will be listed here."
+      },
+      "thesis": {
+        "title": "Thesis",
+        "description": "Research on custom AI chatbots for campus information services using NLP with an LSTM model."
+      },
+      "projects": {
+        "title": "Research Projects",
+        "description": "Applied and experimental research initiatives."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's work together",
+    "description": "Open to roles, collaborations and freelance work. The best ways to reach me are below.",
+    "channels": {
+      "email": "Email",
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp"
+    },
+    "cta": "Send me an email"
+  },
+  "footer": {
+    "tagline": "Building intelligent, end-to-end solutions — from model to product.",
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "cta": "Back to home"
+  }
+}
