@@ -148,6 +148,16 @@
       "imagePlaceholder": "Gambar pratinjau"
     },
     "items": {
+      "barcode-detection": {
+        "title": "Deteksi Barcode Berbasis AI",
+        "summary": "Sistem computer vision yang memanfaatkan kamera pengawas untuk secara otomatis mendeteksi dan membaca barcode pada paket, barang, dan aset logistik secara real-time — mempercepat identifikasi, pelacakan, dan verifikasi inventaris.",
+        "overview": "AI-Powered Barcode Detection adalah sistem computer vision yang mengubah kamera pengawas biasa menjadi lapisan pelacakan aset dan paket otomatis. Sistem mendeteksi dan membaca barcode pada paket, barang, dan aset logistik langsung dari aliran kamera, sehingga proses identifikasi, pelacakan, dan verifikasi terjadi secara real-time — tanpa pemindaian manual di setiap titik. Dengan mengotomasi proses yang biasanya lambat dan rentan kesalahan, solusi ini mempercepat operasi logistik dan meningkatkan akurasi manajemen inventaris. Dibangun di sekitar model deteksi berbasis YOLO dengan Python dan OpenCV, sistem ini dirancang untuk terhubung dengan infrastruktur kamera yang ada dan menghadirkan data pelacakan real-time yang andal — jenis solusi AI berfokus operasional yang dapat saya rancang dan hadirkan secara menyeluruh."
+      },
+      "oil-palm-fruit-counting": {
+        "title": "Penghitungan Buah Kelapa Sawit Berbasis AI",
+        "summary": "Sistem computer vision yang secara otomatis menghitung tandan buah segar (TBS) kelapa sawit dari video dan kamera lapangan menggunakan deteksi objek dan tracking — mendukung pemantauan panen dan akurasi catatan produksi.",
+        "overview": "AI-Powered Oil Palm Fruit Counting adalah sistem computer vision yang secara otomatis menghitung tandan buah segar (TBS) kelapa sawit dari rekaman video maupun kamera lapangan langsung. Dengan memadukan deteksi objek dan multi-object tracking, sistem mengidentifikasi dan mengikuti setiap tandan antar-frame untuk menghasilkan hitungan yang andal tanpa penghitungan ganda. Solusi ini mendukung pemantauan panen, meningkatkan akurasi catatan produksi, serta mengurangi kesalahan dan beban tenaga kerja pada penghitungan manual yang selama ini diandalkan perkebunan. Dibangun di sekitar model deteksi berbasis YOLO dengan Python, sistem ini mengubah rekaman panen biasa menjadi data produksi yang terstruktur dan tepercaya — jenis solusi AI pertanian praktis yang dapat saya rancang dan hadirkan secara menyeluruh."
+      },
       "face-recognition": {
         "title": "Sistem Absensi Pengenalan Wajah",
         "summary": "Platform absensi berbasis pengenalan wajah full-stack dengan deteksi liveness anti-spoofing dan validasi geofence — memadukan embedding ArcFace, pemeriksaan liveness MediaPipe, dan dashboard analitik real-time.",

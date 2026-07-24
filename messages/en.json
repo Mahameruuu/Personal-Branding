@@ -148,6 +148,16 @@
       "imagePlaceholder": "Preview image"
     },
     "items": {
+      "barcode-detection": {
+        "title": "AI-Powered Barcode Detection",
+        "summary": "A computer-vision system that uses surveillance cameras to automatically detect and read barcodes on packages, goods and logistics assets in real time — accelerating identification, tracking and inventory verification.",
+        "overview": "AI-Powered Barcode Detection is a computer-vision system that turns ordinary surveillance cameras into an automated asset- and package-tracking layer. It detects and reads barcodes on packages, goods and logistics assets directly from the camera stream, so identification, tracking and verification happen in real time — without manual scanning at every checkpoint. By automating what is usually a slow, error-prone process, the solution accelerates logistics operations and improves inventory-management accuracy. Built around a YOLO-based detection model in Python with OpenCV, it is designed to plug into existing camera infrastructure and deliver reliable, real-time tracking data — the kind of practical, operations-focused AI solution I can design and deploy end to end."
+      },
+      "oil-palm-fruit-counting": {
+        "title": "AI-Powered Oil Palm Fruit Counting",
+        "summary": "A computer-vision system that automatically counts oil palm fresh fruit bunches from videos and field cameras using object detection and tracking — supporting harvest monitoring and accurate production records.",
+        "overview": "AI-Powered Oil Palm Fruit Counting is a computer-vision system that automatically counts oil palm fresh fruit bunches (FFB) from recorded videos and live field cameras. Using object detection combined with multi-object tracking, it identifies and follows each bunch across frames to produce a reliable count without double-counting. The solution supports harvest monitoring, improves the accuracy of production records, and reduces the manual counting errors and labor that plantations rely on today. Built around a YOLO-based detection model in Python, it turns ordinary harvest footage into structured, trustworthy production data — the kind of practical agricultural-AI solution I can design and deliver end to end."
+      },
       "face-recognition": {
         "title": "Face Recognition Attendance System",
         "summary": "A full-stack face-recognition attendance platform with anti-spoofing liveness detection and geofence validation — combining ArcFace embeddings, MediaPipe liveness checks and a real-time analytics dashboard.",
