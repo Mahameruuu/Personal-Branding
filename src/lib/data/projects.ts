@@ -1,5 +1,6 @@
 import {
   Activity,
+  Apple,
   ArrowLeftRight,
   Barcode,
   BellRing,
@@ -467,6 +468,26 @@ export const featuredProjects: Project[] = [
     architectureImage: "",
     videoUrl: "/projects/videos/barcode.mp4",
     coverIcon: Barcode,
+  },
+  {
+    slug: "fruit-ripeness-monitoring",
+    category: "computerVision",
+    status: "completed",
+    tech: [
+      tech.yolo,
+      tech.python,
+      tech.opencv,
+      tech.numpy,
+      tech.fastapi,
+      tech.docker,
+    ],
+    features: [],
+    roadmap: [],
+    // Assets managed manually — replace these with your own files.
+    coverImage: "/projects/images/fruit-ripeness-cover.png",
+    architectureImage: "",
+    videoUrl: "/projects/videos/fruit-ripeness.mp4",
+    coverIcon: Apple,
   },
 ];
 

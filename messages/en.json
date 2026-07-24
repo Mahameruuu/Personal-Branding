@@ -148,6 +148,11 @@
       "imagePlaceholder": "Preview image"
     },
     "items": {
+      "fruit-ripeness-monitoring": {
+        "title": "AI Vision for Fruit Ripeness Monitoring & Counting",
+        "summary": "A computer-vision system that monitors fruit ripeness and automatically counts fruits using segmentation, object detection and tracking — helping agribusiness optimize harvesting and make real-time, data-driven decisions.",
+        "overview": "AI Vision for Fruit Ripeness Monitoring & Counting is a computer-vision system that helps farmers and agribusiness companies understand and manage their harvest at scale. Combining image segmentation, object detection and multi-object tracking, it assesses the ripeness of fruit and automatically counts them from images or video — turning what the camera sees into structured, actionable data. This helps improve harvesting efficiency, optimize productivity and support real-time, data-driven decisions about when and what to harvest. Built around a YOLO-based detection and segmentation pipeline in Python with OpenCV, it is designed to bring reliable, automated crop insight to the field — the kind of practical agricultural-AI solution I can design and deliver end to end."
+      },
       "barcode-detection": {
         "title": "AI-Powered Barcode Detection",
         "summary": "A computer-vision system that uses surveillance cameras to automatically detect and read barcodes on packages, goods and logistics assets in real time — accelerating identification, tracking and inventory verification.",

@@ -148,6 +148,11 @@
       "imagePlaceholder": "Gambar pratinjau"
     },
     "items": {
+      "fruit-ripeness-monitoring": {
+        "title": "AI Vision untuk Pemantauan Kematangan & Penghitungan Buah",
+        "summary": "Sistem computer vision yang memantau tingkat kematangan buah dan menghitung buah secara otomatis menggunakan segmentasi, deteksi objek, dan tracking — membantu agribisnis mengoptimalkan panen dan mengambil keputusan berbasis data secara real-time.",
+        "overview": "AI Vision untuk Pemantauan Kematangan & Penghitungan Buah adalah sistem computer vision yang membantu petani dan perusahaan agribisnis memahami serta mengelola panen dalam skala besar. Dengan memadukan segmentasi citra, deteksi objek, dan multi-object tracking, sistem menilai tingkat kematangan buah dan menghitungnya secara otomatis dari gambar maupun video — mengubah apa yang dilihat kamera menjadi data terstruktur yang dapat ditindaklanjuti. Hal ini membantu meningkatkan efisiensi panen, mengoptimalkan produktivitas, dan mendukung keputusan berbasis data secara real-time tentang kapan dan apa yang harus dipanen. Dibangun di sekitar pipeline deteksi dan segmentasi berbasis YOLO dengan Python dan OpenCV, sistem ini dirancang untuk menghadirkan wawasan panen yang andal dan otomatis ke lapangan — jenis solusi AI pertanian praktis yang dapat saya rancang dan hadirkan secara menyeluruh."
+      },
       "barcode-detection": {
         "title": "Deteksi Barcode Berbasis AI",
         "summary": "Sistem computer vision yang memanfaatkan kamera pengawas untuk secara otomatis mendeteksi dan membaca barcode pada paket, barang, dan aset logistik secara real-time — mempercepat identifikasi, pelacakan, dan verifikasi inventaris.",
