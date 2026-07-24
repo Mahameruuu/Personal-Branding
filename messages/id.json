@@ -149,9 +149,9 @@
     },
     "items": {
       "face-recognition": {
-        "title": "Sistem Pengenalan Wajah (Face Recognition)",
-        "summary": "Sistem computer vision untuk pengenalan wajah secara real-time — mengidentifikasi dan memverifikasi individu dari feed kamera untuk kebutuhan absensi, akses, dan keamanan.",
-        "overview": "Face Recognition adalah sistem computer vision yang mendeteksi dan mengidentifikasi individu dari feed kamera langsung secara real-time, mencocokkan wajah dengan basis data terdaftar untuk kebutuhan seperti absensi, kontrol akses, dan pemantauan keamanan. Studi kasus lengkap segera hadir."
+        "title": "Sistem Absensi Pengenalan Wajah",
+        "summary": "Platform absensi berbasis pengenalan wajah full-stack dengan deteksi liveness anti-spoofing dan validasi geofence — memadukan embedding ArcFace, pemeriksaan liveness MediaPipe, dan dashboard analitik real-time.",
+        "overview": "Face Recognition Attendance adalah platform siap produksi yang menggantikan absensi manual dengan verifikasi wajah tanpa sentuh yang aman. Individu diidentifikasi dari aliran kamera langsung menggunakan embedding wajah ArcFace (via DeepFace) dengan pencocokan cosine distance, sementara MediaPipe Face Mesh menjalankan pemeriksaan liveness anti-spoofing — kedipan mata, gerakan mulut, dan putaran kepala — sehingga foto cetak atau video ulangan tidak dapat mengelabui sistem. Setiap check-in juga divalidasi terhadap aturan geofence yang dapat dikonfigurasi, lalu mengalir ke dashboard real-time dengan grafik, peta, serta catatan absensi yang dapat dicari dan difilter. Sistem dibangun sebagai produk full-stack modern: frontend Next.js 15 (App Router) dan TypeScript dengan Tailwind CSS v4, shadcn/ui di atas Radix, TanStack Query dan Table, React Hook Form dengan validasi Zod, state Zustand, ApexCharts, dan peta Leaflet; serta backend Python dan Flask dengan autentikasi JWT, penangkapan OpenCV dan streaming MJPEG, model berbasis TensorFlow, dan penyimpanan MySQL. Proyek ini menunjukkan bagaimana saya membawa kapabilitas AI dari model hingga menjadi produk enterprise yang aman dan siap pakai."
       },
       "time-series-forecasting": {
         "title": "Time-Series Forecasting",

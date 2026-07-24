@@ -149,9 +149,9 @@
     },
     "items": {
       "face-recognition": {
-        "title": "Face Recognition System",
-        "summary": "A computer vision system for real-time face recognition — identifying and verifying individuals from camera feeds for attendance, access and security use cases.",
-        "overview": "Face Recognition is a computer vision system that detects and identifies individuals from live camera feeds in real time, matching faces against a registered database for use cases such as attendance, access control and security monitoring. A detailed case study is coming soon."
+        "title": "Face Recognition Attendance System",
+        "summary": "A full-stack face-recognition attendance platform with anti-spoofing liveness detection and geofence validation — combining ArcFace embeddings, MediaPipe liveness checks and a real-time analytics dashboard.",
+        "overview": "Face Recognition Attendance is a production-grade platform that replaces manual attendance with secure, contactless face verification. People are identified from a live camera stream using ArcFace face embeddings (via DeepFace) with cosine-distance matching, while MediaPipe Face Mesh runs anti-spoofing liveness checks — blink, mouth movement and head-turn — so a printed photo or replayed video cannot fool the system. Each check-in is further validated against configurable geofence rules, then flows into a real-time dashboard with charts, maps and searchable, filterable attendance records. It is built as a modern full-stack product: a Next.js 15 (App Router) and TypeScript frontend with Tailwind CSS v4, shadcn/ui on Radix, TanStack Query and Table, React Hook Form with Zod validation, Zustand state, ApexCharts and Leaflet maps; and a Python and Flask backend with JWT authentication, OpenCV capture and MJPEG streaming, TensorFlow-backed models and MySQL storage. This project shows how I take an AI capability all the way from model to a secure, usable enterprise product."
       },
       "time-series-forecasting": {
         "title": "Time-Series Forecasting",

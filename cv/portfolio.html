@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Muhammad Mahameru Abidin — Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --ink: #0f172a;
+        --body: #334155;
+        --muted: #64748b;
+        --line: #e2e8f0;
+        --accent: #4f46e5;
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      body {
+        font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+        color: var(--body); font-size: 10.6px; line-height: 1.55; background: #fff;
+      }
+      .page { width: 210mm; min-height: 297mm; margin: 0 auto; padding: 16mm 16mm; background: #fff; }
+      .page + .page { page-break-before: always; }
+
+      /* Cover */
+      .cover { display: flex; flex-direction: column; justify-content: center; min-height: 265mm; }
+      .cover .eyebrow { color: var(--accent); font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; font-size: 11px; }
+      .cover .name { font-size: 44px; font-weight: 800; color: var(--ink); letter-spacing: -0.02em; margin-top: 10px; line-height: 1.05; }
+      .cover .role { font-size: 18px; font-weight: 600; color: var(--accent); margin-top: 8px; }
+      .cover .intro { margin-top: 22px; max-width: 150mm; color: var(--body); font-size: 12px; line-height: 1.7; }
+      .cover .meta { margin-top: 26px; display: flex; flex-wrap: wrap; gap: 6px 22px; color: var(--muted); font-size: 11px; }
+      .cover .meta b { color: var(--ink); font-weight: 600; }
+      .cover .stats { margin-top: 30px; display: flex; gap: 28px; }
+      .stat .n { font-size: 26px; font-weight: 800; color: var(--ink); }
+      .stat .l { color: var(--muted); font-size: 10px; }
+
+      /* Sections */
+      .sec-title { font-size: 15px; font-weight: 800; color: var(--ink); letter-spacing: -0.01em; margin: 0 0 3px; display: flex; align-items: center; gap: 9px; }
+      .sec-title::before { content: ""; width: 5px; height: 17px; background: var(--accent); border-radius: 2px; }
+      .sec-sub { color: var(--muted); font-size: 10.5px; margin: 0 0 14px 14px; }
+      .sec + .sec { margin-top: 22px; }
+
+      .card { border: 1px solid var(--line); border-radius: 10px; padding: 13px 15px; margin-bottom: 11px; page-break-inside: avoid; }
+      .card-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+      .card-title { font-size: 12.5px; font-weight: 700; color: var(--ink); }
+      .card-cat { color: var(--accent); font-weight: 600; font-size: 9.5px; white-space: nowrap; }
+      .card-desc { margin-top: 5px; color: var(--body); }
+      .tech { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 5px; }
+      .chip { font-size: 8.8px; font-weight: 600; color: #475569; background: #f1f5f9; border: 1px solid #e2e8f0; border-radius: 5px; padding: 2px 7px; }
+
+      .foot { margin-top: 26px; padding-top: 12px; border-top: 1px solid var(--line); color: var(--muted); font-size: 10px; display: flex; justify-content: space-between; }
+      .foot a, .foot b { color: var(--ink); }
+
+      @page { size: A4; margin: 0; }
+    </style>
+  </head>
+  <body>
+    <!-- COVER -->
+    <section class="page">
+      <div class="cover">
+        <div class="eyebrow">Portfolio · 2026</div>
+        <div class="name">Muhammad Mahameru<br />Abidin</div>
+        <div class="role">Data Scientist | AI Engineer</div>
+        <p class="intro">
+          Building end-to-end AI solutions — from research and model development to
+          scalable production systems. This portfolio highlights real-world work across
+          Computer Vision, Machine Learning, Generative AI and Full-Stack Web
+          development, designed to turn complex data into measurable business value.
+        </p>
+        <div class="meta">
+          <span><b>Email</b> &nbsp;mahameru0504@gmail.com</span>
+          <span><b>Phone</b> &nbsp;+62 856-4645-2991</span>
+          <span><b>LinkedIn</b> &nbsp;in/mmahamerua</span>
+          <span><b>Location</b> &nbsp;Sidoarjo, East Java, Indonesia</span>
+        </div>
+        <div class="stats">
+          <div class="stat"><div class="n">13+</div><div class="l">Projects</div></div>
+          <div class="stat"><div class="n">4</div><div class="l">AI &amp; Web domains</div></div>
+          <div class="stat"><div class="n">~2 yrs</div><div class="l">Experience</div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- AI PROJECTS -->
+    <section class="page">
+      <div class="sec">
+        <div class="sec-title">Computer Vision</div>
+        <div class="sec-sub">Real-time visual intelligence from camera feeds.</div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">PPE Detection System</div><div class="card-cat">Computer Vision</div></div>
+          <div class="card-desc">An AI computer-vision system that detects personal protective equipment — hardhats, safety vests and more — on workers in real time, turning existing cameras into an automated workplace-safety compliance monitor.</div>
+          <div class="tech"><span class="chip">YOLO</span><span class="chip">Python</span><span class="chip">OpenCV</span><span class="chip">Flask</span><span class="chip">Google Cloud</span><span class="chip">Docker</span></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">Face Mask Detection System</div><div class="card-cat">Computer Vision</div></div>
+          <div class="card-desc">Real-time face-mask compliance detection across crowded public and workplace environments, classifying masked/unmasked faces with confidence scoring to support health &amp; safety policies.</div>
+          <div class="tech"><span class="chip">YOLO</span><span class="chip">Python</span><span class="chip">OpenCV</span><span class="chip">Flask</span><span class="chip">Google Cloud</span><span class="chip">Docker</span></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">Face Recognition System</div><div class="card-cat">Computer Vision</div></div>
+          <div class="card-desc">Real-time face recognition that identifies and verifies individuals from camera feeds against a registered database — built for attendance, access control and security use cases.</div>
+          <div class="tech"><span class="chip">Python</span><span class="chip">OpenCV</span><span class="chip">TensorFlow</span></div>
+        </div>
+      </div>
+
+      <div class="sec">
+        <div class="sec-title">Machine Learning</div>
+        <div class="sec-sub">Predictive models and analytics for real-world decisions.</div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">Smart Sootblow Rule Analysis</div><div class="card-cat">Machine Learning</div></div>
+          <div class="card-desc">ML system for power-plant sootblowing optimization. Analyzes existing operating rules and recommends improved, data-driven ones — building and comparing Linear Regression, Polynomial and Multivariate models (scored by R² and eligibility) on real plant sensor data.</div>
+          <div class="tech"><span class="chip">Python</span><span class="chip">Scikit-learn</span><span class="chip">Jupyter</span><span class="chip">MySQL</span><span class="chip">Flask</span><span class="chip">Swagger</span><span class="chip">Docker</span></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">Anomaly Detection System</div><div class="card-cat">Machine Learning</div></div>
+          <div class="card-desc">Monitors sensor and operational data to detect anomalies in real time, flagging unusual patterns that may indicate faults or risks — aimed at industrial monitoring where early detection prevents downtime.</div>
+          <div class="tech"><span class="chip">Python</span><span class="chip">Scikit-learn</span><span class="chip">FastAPI</span><span class="chip">Docker</span></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">Time-Series Forecasting</div><div class="card-cat">Machine Learning</div></div>
+          <div class="card-desc">Forecasting system that predicts future values from historical time-series data — such as demand, load or sensor readings — to support planning and data-driven decision-making.</div>
+          <div class="tech"><span class="chip">Python</span><span class="chip">Scikit-learn</span><span class="chip">Pandas</span></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">ILO/KBLI Code Recommendation</div><div class="card-cat">Machine Learning</div></div>
+          <div class="card-desc">Automated system that crawls and scrapes web and social-media data to understand a company's activities, then recommends the most relevant ILO/KBLI business-classification codes — replacing slow, manual classification.</div>
+          <div class="tech"><span class="chip">Python</span><span class="chip">Pandas</span><span class="chip">FastAPI</span></div>
+        </div>
+      </div>
+
+      <div class="sec">
+        <div class="sec-title">Generative AI</div>
+        <div class="sec-sub">LLM-powered, document-grounded assistants.</div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">XORCA Enterprise AI Assistant</div><div class="card-cat">Generative AI</div></div>
+          <div class="card-desc">Enterprise AI assistant powered by Claude — a document-grounded chatbot that answers questions about a company's products, capabilities and industries. Served through a Flask API with Redis caching and deployed on Google Cloud.</div>
+          <div class="tech"><span class="chip">Python</span><span class="chip">Flask</span><span class="chip">Swagger</span><span class="chip">Redis</span><span class="chip">Google Colab</span><span class="chip">Google Cloud</span><span class="chip">Claude API</span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FULL-STACK PROJECTS -->
+    <section class="page">
+      <div class="sec">
+        <div class="sec-title">Full-Stack Web</div>
+        <div class="sec-sub">End-to-end web systems — from database to user interface.</div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">LPPM Research &amp; Community Service System</div><div class="card-cat">Full-Stack Web</div></div>
+          <div class="card-desc">Multi-role enterprise platform digitizing a university research office (LPPM): lecturers submit and report research/community-service proposals; admins manage master data (SDGs, SKIM, funding, labs, outputs) via role-based dashboards.</div>
+          <div class="tech"><span class="chip">Laravel</span><span class="chip">Blade</span><span class="chip">Bootstrap</span><span class="chip">PostgreSQL</span></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">Coffee Shop POS (Cashier) System</div><div class="card-cat">Full-Stack Web</div></div>
+          <div class="card-desc">Point-of-sale cashier application for a coffee shop — transactions, menu, members and points, vouchers, tax and receipt printing, plus an admin area and sales reporting for owners.</div>
+          <div class="tech"><span class="chip">Laravel</span><span class="chip">Blade</span><span class="chip">Bootstrap</span><span class="chip">MySQL</span></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">E-Commerce Website</div><div class="card-cat">Full-Stack Web</div></div>
+          <div class="card-desc">Full-stack e-commerce platform covering the complete online-shopping journey — product browsing, search, shopping cart, user accounts and checkout — built end to end from database to a responsive storefront.</div>
+          <div class="tech"><span class="chip">Laravel</span><span class="chip">MySQL</span><span class="chip">PHP</span><span class="chip">Vue.js</span><span class="chip">Bootstrap</span></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">Library Management System</div><div class="card-cat">Full-Stack Web</div></div>
+          <div class="card-desc">Library management system handling members, book collections and borrowing transactions, with an admin dashboard that digitizes day-to-day library operations and replaces manual record-keeping.</div>
+          <div class="tech"><span class="chip">MySQL</span><span class="chip">PHP</span><span class="chip">CSS3</span><span class="chip">JavaScript</span></div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><div class="card-title">Kominfo Activity Information Portal</div><div class="card-cat">Full-Stack Web</div></div>
+          <div class="card-desc">Information portal for publishing and managing Kominfo (BPSDMP) activity news — public article pages, search and comments with a secured admin area for content management. Built for the BNSP Junior Web Developer certification.</div>
+          <div class="tech"><span class="chip">PHP</span><span class="chip">MySQL</span><span class="chip">Bootstrap</span><span class="chip">JavaScript</span></div>
+        </div>
+      </div>
+
+      <div class="foot">
+        <span><b>Muhammad Mahameru Abidin</b> — Data Scientist | AI Engineer</span>
+        <span>mahameru0504@gmail.com · in/mmahamerua</span>
+      </div>
+    </section>
+  </body>
+</html>

@@ -31,6 +31,17 @@ import {
   SiGooglecolab,
   SiGooglecloud,
   SiClaude,
+  SiNextdotjs,
+  SiTypescript,
+  SiTailwindcss,
+  SiShadcnui,
+  SiReactquery,
+  SiAxios,
+  SiLeaflet,
+  SiFramer,
+  SiMediapipe,
+  SiJsonwebtokens,
+  SiNumpy,
 } from "react-icons/si";
 import { FaAws, FaJava } from "react-icons/fa6";
 
@@ -91,6 +102,18 @@ export const tech = {
   colab: { name: "Google Colab", icon: SiGooglecolab, color: "#F9AB00" },
   gcp: { name: "Google Cloud", icon: SiGooglecloud, color: "#4285F4" },
   claude: { name: "Claude API", icon: SiClaude, color: "#D97757" },
+  // Brand-black logos use a neutral gray so they stay visible in dark mode.
+  nextjs: { name: "Next.js", icon: SiNextdotjs, color: "#6B7280" },
+  typescript: { name: "TypeScript", icon: SiTypescript, color: "#3178C6" },
+  tailwind: { name: "Tailwind CSS", icon: SiTailwindcss, color: "#06B6D4" },
+  shadcn: { name: "shadcn/ui", icon: SiShadcnui, color: "#6B7280" },
+  tanstack: { name: "TanStack Query", icon: SiReactquery, color: "#FF4154" },
+  axios: { name: "Axios", icon: SiAxios, color: "#5A29E4" },
+  leaflet: { name: "Leaflet", icon: SiLeaflet, color: "#199900" },
+  framerMotion: { name: "Framer Motion", icon: SiFramer, color: "#0055FF" },
+  mediapipe: { name: "MediaPipe", icon: SiMediapipe, color: "#0097A7" },
+  jwt: { name: "JWT", icon: SiJsonwebtokens, color: "#6B7280" },
+  numpy: { name: "NumPy", icon: SiNumpy, color: "#4D77CF" },
   yolo: { name: "YOLO", icon: ScanEye, color: "#00B8D9" },
 } satisfies Record<string, Tech>;
 
